@@ -10,7 +10,7 @@
     background-image: url("https://www.transparenttextures.com/patterns/dark-geometric.png");
     background-blend-mode: overlay;
     background-size: cover;
-    height: 100vh;
+    height: auto;
     width: 100vw;
     display: flex;
     flex-direction: column;

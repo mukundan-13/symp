@@ -1,4 +1,3 @@
-
 import "./index.css";
 
 const ContactUs = () => {
@@ -14,11 +13,11 @@ const ContactUs = () => {
           <p className="contact-info">Phone: +91 93426 29920</p>
         </div>
 
-        <div className="contact-card">
+        {/* <div className="contact-card">
           <h3 className="my-4 neon-text default-cursor">Riyaz</h3>
           <p className="contact-info">Phone: 6739996847</p>
-        </div>
-         
+        </div> */}
+
         <div className="contact-card">
           <h3 className="my-4 neon-text default-cursor">M.Naveen</h3>
           <p className="contact-info">Phone: 9876543210</p>

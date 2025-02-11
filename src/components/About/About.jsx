@@ -3,11 +3,11 @@ import "./About.css"; // External CSS file
 const About = () => {
   const teamData = {
     "Web Development Team": [
-      {
-        name: "Mohammed Riyaz",
-        role: "Web Developer",
-        image: "https://via.placeholder.com/150/ff7f50/fff?text=John",
-      },
+      // {
+      //   name: "Mohammed Riyaz",
+      //   role: "Web Developer",
+      //   image: "https://via.placeholder.com/150/ff7f50/fff?text=John",
+      // },
       {
         name: "Dhana Sakthivel",
         role: "Web Developer",
@@ -55,7 +55,8 @@ const About = () => {
         role: "Graphic Design",
         image: "https://via.placeholder.com/150/4169e1/fff?text=David",
       },
-    ],"Office Bearers": [
+    ],
+    "Office Bearers": [
       {
         name: "M.Naveen",
         role: "President",
